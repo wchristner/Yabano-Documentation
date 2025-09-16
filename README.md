@@ -1,14 +1,14 @@
 
 #  Kitchen Appliance Assembly & Troubleshooting Guide
 
-This repository showcases a series of hand-drawn, black-and-white instructional illustrations and rewritten troubleshooting documentation for kitchen appliances including immersion blenders, food processors, and electric whisks. All visuals have been adapted to match the **Yabano LB2104** model styling and stripped of branding for clarity and instructional usability.
-
+## Please Note
+This repository features a collection of instructional illustrations and rewritten troubleshooting documentation for kitchen appliances, including immersion blenders, food processors, and electric whisks. All visuals are styled to match the Yabano LB2104 model and have been de-branded for clarity and ease of use. While the images in this Hand Mixer documentation were generated using AI to represent concepts and features, all accompanying text, explanations, and instructions are entirely written and authored by me.
 ---
 
 ##  Repository Structure
 
-/images → Realistic pencil-style illustrations 
-/docs → Troubleshooting guides and rewritten product instructions README.md
+/images → Realistic pencil-style illustrations     
+/docs → Troubleshooting guides and rewritten product instructions.
 ---
 
 ##  Visual Enhancements
